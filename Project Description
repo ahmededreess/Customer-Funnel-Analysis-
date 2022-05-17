@@ -1,7 +1,7 @@
 ### Customer_Funnel-Analysis
 this is Exploratory Data Analysis for the E commerce website to explore the conversation funnel and get insights How to improve it 
 
-tools I will use for the analysis ( SQL - EXCEL - Tableau ) 
+tools I will use for the analysis ( SQL (bigQuery) - EXCEL (Power Query ,PowerPivot) - Tableau ) 
 
 the dataset I use consists as the following: 
 1. Home_page table         : contains all customers who visit the home page ( columns: user_id , page (home_page) )
